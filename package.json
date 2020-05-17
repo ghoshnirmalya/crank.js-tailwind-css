@@ -12,7 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@bikeshaving/crank": "^0.1.3"
+    "@bikeshaving/crank": "^0.1.3",
+    "regenerator-runtime": "^0.13.5"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
