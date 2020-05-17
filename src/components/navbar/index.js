@@ -2,7 +2,7 @@ import { createElement } from "@bikeshaving/crank";
 
 const Navbar = () => {
   return (
-    <div className="bg-gray-200 border-b">
+    <div className="bg-gray-100 border-b">
       <div className="max-w-2xl mx-auto p-8 flex justify-between">
         <div>
           <ul class="flex">
