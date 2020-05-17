@@ -1,4 +1,6 @@
-<h1 align="center">Crank.js TailwindCSS</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/6391763/82155151-64148380-9890-11ea-93b9-7ae5d52bd11a.png" alt="Logo"/>
+</p>
 
 <p align="center">
   <a href="https://twitter.com/nirmalyaghosh23">
@@ -10,7 +12,7 @@ This is a sample application built using [Crank.js](https://crank.js.org/) and [
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**
 
 - [Crank.js TailwindCSS](#crankjs-tailwindcss)
   - [Overview](#overview)
